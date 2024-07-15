@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Muhammed Anees</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software Engineering student from Kerala, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedanees-loony&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedanees-loony" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedanees-loony" alt="muhammedanees-loony" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anuuanee" target="blank"><img src="https://img.shields.io/twitter/follow/anuuanee?logo=twitter&style=for-the-badge" alt="anuuanee" /></a> </p>
+
+- 🔭 I’m currently working on [GPS based Toll Collection](https://github.com/MuhammedAnees-loony/GPS-Toll-based-System-simulation.git)
+
+- 🌱 I’m currently learning **Machine learning**
+
+- 📫 How to reach me **muhammedanees922059@gmail.com**
+
+- ⚡ Fun fact **I think i am the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed anees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed anees" height="30" width="40" /></a>
+<a href="https://twitter.com/anuuanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuuanee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-anees-18b225318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-anees-18b225318/" height="30" width="40" /></a>
+<a href="https://instagram.com/anu_aneee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu_aneee" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/1012261752706183209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1012261752706183209" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
