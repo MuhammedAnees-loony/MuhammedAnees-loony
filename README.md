@@ -5,15 +5,18 @@
 ## About Me
 I'm a [Your Job Title/Role] with a passion for [Your Interests or Hobbies]. I specialize in [Your Specializations].
 
-- 🌍 I'm based in [Your Location]
+- 🌍 I'm based in [Kerala, India]
 - 🖥️ See my portfolio at [Your Portfolio Website]
-- ✉️ You can contact me at [Your Email]
+- ✉️ You can contact me at [muhammedanees922059@gmail.com]
 
 ## Skills
 ### Languages
 - Python
 - JavaScript
 - HTML & CSS
+- SQL
+- java
+  
 
 ### Frameworks
 - React
