@@ -1,6 +1,6 @@
 # Hi there, I'm [Muhammed Anees] 👋
 
-![Profile views](https://gpvc.arturio.dev/MuhammedAnees-loony)
+![](https://komarev.com/ghpvc/?username=MuhammedAnees-loony&color=green)
 
 ## About Me
 I'm a [Your Job Title/Role] with a passion for [Your Interests or Hobbies]. I specialize in [Your Specializations].
