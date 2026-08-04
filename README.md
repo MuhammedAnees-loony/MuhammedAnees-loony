@@ -1,73 +1,99 @@
-<h2 align="left">Hi 👋! i am Muhammed Anees.</h2>
+<h1 align="center">Hi 👋, I'm Muhammed Anees</h1>
+<h3 align="center">B.Tech Computer Science Graduate | Machine Learning Enthusiast | Backend Developer</h3>
 
-- 🔭 I’m currently working on [GPS based Toll Collection](https://github.com/MuhammedAnees-loony/GPS-Toll-based-System-simulation.git)
+<p align="center">
+Passionate about developing intelligent software solutions using Machine Learning, Artificial Intelligence, and Backend Technologies. I enjoy building impactful applications that solve real-world problems.
+</p>
 
-- 🌱 I’m currently learning **Machine learning**
+---
 
-- 📫 How to reach me **muhammedanees922059@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I think i am the best**
+- 🔭 Currently working on **GPS-Based Toll Collection System**
+- 🌱 Learning **Machine Learning, Deep Learning & AI**
+- 💻 Interested in **Backend Development, AI, and Full Stack Development**
+- 📫 Reach me at **muhammedanees922059@gmail.com**
+- ⚡ Fun Fact: **I enjoy solving challenging programming problems and building practical AI applications.**
 
+---
 
-###
+## 🛠 Languages and Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedAnees-loony&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedAnees-loony&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-</div>
+## 🌟 Featured Project
 
-###
+### 🚗 GPS-Based Toll Collection System
 
-<div align="left">
-  <a href="https://www.instagram.com/anu_aneee/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:muhammedanees922059@gmail.comProfile image muhammedanees922059@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-anees-18b225318/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+An intelligent GPS-based toll collection system that automates toll charging using geolocation, eliminating the need for physical toll booths and reducing traffic congestion.
 
-###
+🔗 Repository:
+https://github.com/MuhammedAnees-loony/GPS-Toll-based-System-simulation
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/MuhammedAnees-loony/MuhammedAnees-loony/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Statistics
 
-###
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammedAnees-loony&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAnees-loony&layout=compact&theme=tokyonight"/>
+</p>
 
-###
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MuhammedAnees-loony&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammedAnees-loony&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammedAnees-loony&theme=onedark&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedAnees-loony&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammed-anees-18b225318">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammedanees922059@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/anu_aneee/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MuhammedAnees-loony/MuhammedAnees-loony/output/snake.svg"/>
+</p>
